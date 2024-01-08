@@ -1,0 +1,16 @@
+{
+    "name": "emers/router",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "emerson rodrigues"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
